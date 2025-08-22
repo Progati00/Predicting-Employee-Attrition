@@ -61,11 +61,14 @@ Top predictors of attrition:
 ## 7. Data Export for Visualization  
 
   ### 📂 Data Sources  
-- **Transformed dataset** → [`cleaned_hr_data.csv`]()  
+
+- **Actual dataset** → [`HR Employee Attrition.csv`](https://github.com/Progati00/Predicting-Employee-Attrition/blob/main/HR%20Employee%20Attrition.csv)
+  
+- **Transformed dataset** → [`cleaned_hr_data.csv`](https://github.com/Progati00/Predicting-Employee-Attrition/blob/main/cleaned_hr_data.csv)  
   - Encoded + scaled features  
   - Used for machine learning modeling  
 
-- **Original dataset** → [`hr_data_cleaned_original.csv`](./data/hr_data_cleaned_original.csv)  
+- **Original dataset** → [`hr_data_cleaned_original.csv`](https://github.com/Progati00/Predicting-Employee-Attrition/blob/main/hr_data_cleaned_original.xlsx)  
   - Retained categorical + numerical values  
   - Used for **Power BI dashboards** and business-friendly reporting  
 
